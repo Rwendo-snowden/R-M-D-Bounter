@@ -1,0 +1,2 @@
+D:/projet/smsapp/android/app/.cxx/Debug/6h6p4816/x86/CMakeFiles/edit_cache.dir
+D:/projet/smsapp/android/app/.cxx/Debug/6h6p4816/x86/CMakeFiles/rebuild_cache.dir
